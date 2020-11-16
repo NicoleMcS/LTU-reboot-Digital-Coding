@@ -1,4 +1,4 @@
-1.1 - 09/11/2020
+1.1 - 10/11/2020
 
 Reflection
 
@@ -6,9 +6,65 @@ In today's session I learnt that the web development industry is a rewarding, lu
 
 I also introduced myself to a class of strangers, this was initially a hard thing for me to do.
 
-The part that I enjoyed the most ....
+The part that I enjoyed the most meeting the group, learning about different roles and tools for a web developer
 
-The part that I found hard was ....
+The part that I found hard was keeping up with viewing the presentation and looking at the web at the same time (toggling between the two)
 
-1.2 - 10/11/2020
+
+
+1.2 - 11/11/2020
+
+Reflection
+
+For homework I watched the intro video from frontendmasters.com about the internet
+
+Today we learnt more about the internet and it was fun to Ping the Google.com website and realise that the nearest available computer was in France whereas others received a response from computer website hosts in other areas as the website is hosted in many places using Cloud computing
+
+W3C is the consortium that is the governing body for all HTML CSS standards. They have some good training resources at W3schools.com
+
+We downloaded some tools Visual Studio Code, Github desktop and set up a GitHub account online
+
+
+
+1.3 - 12/11/2020
+
+Reflection
+
+Today we started using Github and VS code. We added Live Server extension to VS code and created a README.md file. This can contain installaton instructions, general info about the project, who the author/team are.
+
+Unfortunately we got a bit bogged down with different students running into problems and ended an hour behind on the lesson.
+
+Luke was incredibly patient with us all.
+
+
+1.4 - 13/11/2020
+
+Reflection
+
+Today we received log-ins for the LTU licence of Microsoft Teams. This has many more features and is much easier to use.
+
+By 11am we finished yesterday's lesson
+
+We learnt about several resources websites and YouTube channels to help us learn more about coding
+
+We created module 1, completed task 1.4.1 and uploaded it to Github
+
+
+
+1.5 - 16/11/2020
+
+Reflection
+
+Today we started learning about HTML. We learnt some useful tags. We viewed the source code of Bootstrap website by right click view source or Inspect
+
+We completed 3 tasks in Module 2 2.1.1-3, activated Live Server to see what we had written looked like on a web page and saved our work to GitHub. 
+
+Learnt how to wrap text in File Preferences Settings, Head and Body tags, ! --> tab is a handy short cut to create your document type, element, container, stand alone element, attribute, value, nesting. Learnt some good practice tips for setting out HTML and some handy CTRL short cut keys
+
+
+
+1.6 - 17/11/2020
+
+Reflection
+
 
