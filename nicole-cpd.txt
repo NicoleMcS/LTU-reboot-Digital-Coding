@@ -67,4 +67,11 @@ Learnt how to wrap text in File Preferences Settings, Head and Body tags, ! --> 
 
 Reflection
 
+Created links within a page, to a new tab, to an email package
+Linked to images Relative vs Absolute paths
+Line breaks
+Ordered and unordered links
+Tables
+How to comment out certain sections of code for further work or to handover to someone else
+W3 HTML quiz
 
