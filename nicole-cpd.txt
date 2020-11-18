@@ -75,3 +75,14 @@ Tables
 How to comment out certain sections of code for further work or to handover to someone else
 W3 HTML quiz
 
+
+
+1.7 - 18/11/2020
+
+Reflection
+
+Started learning about CSS
+How to link html page to CSS style sheet
+How to change font, color, size of all or specific parts of document e.g. em/strong words, parts of lists, links to other documents
+DRY = Don't Repeat Yourself
+Have ~ 10 mins to catch up on via the video download as internet dropped out ~ 10am.
