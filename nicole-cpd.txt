@@ -92,3 +92,10 @@ Have ~ 10 mins to catch up on via the video download as internet dropped out ~ 1
 
 Reflection
 
+Lots of tasks today. Got a bit lost. Some tasks didn't work or didn't finished
+Selector ID class
+Cascading Styles & priority
+Specific selectors e.g. colour 1 word in a Paragraph
+Block and Inline elements Intoduced Div element, Span element
+Pseudo-classes e.g. how to change a link when you hover over it and click on link
+Box model learnt about margins, padding, borders
