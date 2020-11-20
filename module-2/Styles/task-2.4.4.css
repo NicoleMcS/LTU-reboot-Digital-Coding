@@ -1,0 +1,18 @@
+div {
+    width: 400px;
+    position: relative;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: white;
+    padding: 5px;
+    border: 2px solid goldenrod;
+    font-size: 20px;
+}
