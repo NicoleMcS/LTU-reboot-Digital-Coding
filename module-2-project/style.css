@@ -13,6 +13,10 @@ h1 {
     margin-bottom: 175px;
 }
 
+header h1 img {
+    width: 400px;
+}
+
 section p {
     max-width: 350px;
 }
