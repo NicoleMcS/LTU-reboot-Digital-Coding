@@ -70,3 +70,9 @@ h2 {
     padding-bottom: 30px;
     border-bottom: solid 2px #ffffff;
 }
+
+.further {
+    margin-top: 50px; 
+    max-width: 350px;
+    margin-bottom: 80px;
+}
