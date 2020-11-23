@@ -76,3 +76,24 @@ h2 {
     max-width: 350px;
     margin-bottom: 80px;
 }
+
+footer {
+    background-color: #4c4c4c;
+    padding: 30px;
+    max-width: 1100px;
+}
+
+footer a {
+    color: #1a1a1a;
+    margin-bottom: 20px;
+    margin-right: 40px;
+    text-decoration: underline;
+}
+
+footer p {
+    margin-bottom: 12px;
+}
+
+.links {
+    margin-top: 50px;
+}
