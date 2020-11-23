@@ -109,3 +109,16 @@ Much easier to follow along with live examples today.
 Static positioning, relative positioning and absolute positioning of different elements witing a page.
 Adding styles, borders, colours, positioning
 Z-index for overlapping elements
+
+
+1.10 - 23/11/2020
+
+Reflection
+
+Finished HTML and CSS section
+Created a webpage with images text footer
+Styled each item in page
+Added Media Queries so it will resize for mobile
+Added Google fonts and html entities (to the social media handles)
+Looked at Bootstrap for different style sheets e.g. badges, notification buttons
+Take away task to complete W3 CSS quiz and redo HTML quiz
