@@ -1,0 +1,11 @@
+.sidebar {
+    border: 1px solid purple
+    float: right;
+    width: 35%
+}
+
+.main {
+    border: 1px solid green
+    float: left;
+    width: 60%;
+}
