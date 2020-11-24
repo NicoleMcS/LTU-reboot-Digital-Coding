@@ -1,4 +1,4 @@
 var dogsName = 'Teddy';
-dogsName += 'Brown';
+dogsName += ' Brown';
 
 console.log(dogsName); 
