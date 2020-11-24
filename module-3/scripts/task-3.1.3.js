@@ -1,8 +1,8 @@
-var number of cars = 2;
+var numberOfCars = 2;
 
 
-alert('number of cars')
+alert('numberOfCars')
 
-console.log('number of cars')
+console.log('numberOfCars')
 
-document.write('numbber of cars')
+document.write('numberOfCars')
