@@ -122,3 +122,17 @@ Added Media Queries so it will resize for mobile
 Added Google fonts and html entities (to the social media handles)
 Looked at Bootstrap for different style sheets e.g. badges, notification buttons
 Take away task to complete W3 CSS quiz and redo HTML quiz
+
+
+1.11 - 24/11/2020
+
+Reflection
+
+Started learning JavaScript
+Created an alert, text in the body of the page and in the console (right click Inspect)
+Variables "declare" a variable; "initialise" the variable
+Data types: String, number, Boolean, Unidentified, null...
+Arithmetic operators negation, addition, subtraction, multiplication, division, modulus
+String operators using + and +=
+Combining strings and numbers
+Exercise calculate bill with tip total
