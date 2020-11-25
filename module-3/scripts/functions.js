@@ -32,3 +32,32 @@ console.log( name + ' is ' + age + ' years old');
 
 nameAndAge('Nicole', 28 );
 
+
+
+// Returning a value
+
+function say( message ) {
+
+    console.log( message );
+
+}
+
+//var result = say('Hello');
+
+//console.log( 'Result: ', result );
+
+function add( a, b ) {
+
+    return a + b;
+
+}
+
+console.log( add( 1, 2 ) );
+
+ var onePlusTwo = add(1, 2);
+
+ var twoPlusTwo = add( 2, 2 );
+
+ console.log( onePlusTwo );
+
+ console.log(twoPlusTwo );
