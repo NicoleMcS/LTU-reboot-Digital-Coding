@@ -1,4 +1,4 @@
-var temperature = 10;
+var temperature = 50;
 
 if ( temperature < 0 ) {
 
@@ -15,4 +15,9 @@ if ( temperature < 0 ) {
 } else {
 
     console.log( 'It is fine to just wear pants and vest' );
+}
+
+
+if (temperature >= 30 && temperature <=50) {
+    console.log ("You don't need your hat")
 }
