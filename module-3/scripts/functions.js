@@ -61,3 +61,15 @@ console.log( add( 1, 2 ) );
  console.log( onePlusTwo );
 
  console.log(twoPlusTwo );
+
+
+ 
+ function fullName( firstName, lastName ) {
+
+    return firstName + ' ' + lastName;
+
+ var nameOfPerson = fullName('Jane', 'Farnley');
+
+ console.log( nameOfPerson );
+
+ }

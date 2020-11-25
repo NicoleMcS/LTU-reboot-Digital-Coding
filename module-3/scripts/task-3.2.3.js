@@ -4,4 +4,4 @@ function fullName(firstName, lastName) {
 
 }
 
-fullName('Nicole', 'McSweeney' )
+fullName('Nicole', ' McSweeney' )
