@@ -17,6 +17,18 @@ function functionName( parameters ) {
 
 function greeting( name ) {
 
-    console.log( name );
+    console.log( 'Hello ' + name );
     
 }
+
+greeting('Nicole');
+
+
+function nameAndAge( name, age ) {
+
+console.log( name + ' is ' + age + ' years old');
+
+}
+
+nameAndAge('Nicole', 28 );
+
