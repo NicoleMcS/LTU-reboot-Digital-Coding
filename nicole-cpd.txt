@@ -136,3 +136,20 @@ Arithmetic operators negation, addition, subtraction, multiplication, division, 
 String operators using + and +=
 Combining strings and numbers
 Exercise calculate bill with tip total
+
+
+1.12 - 25/11/2020
+
+Reflection
+
+A lot of JavaScript
+Functions and Control follow
+Returning Values
+Scopes - global scope vs local scope
+Boolean Variables
+Comparison operators ==  ===  !  <  >  <\  >/  
+Else if control follow
+Logic operators && || !a 
+Percentage Calculator
+If elseif else statements
+Switch statements
