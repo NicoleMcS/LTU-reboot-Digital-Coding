@@ -60,26 +60,33 @@ let shoppingCart = [
     price:.4
     }​​​​];
 
-    function shoppingCartTotalPrice( arr ) { //1. Create a function that takes 1 parameter ( The Array )
+    function discountFood( arr )
 
-        let totalPrice = 0; // 2. Create a variable inside the function called totalPrice
+        let totalPrice = 0; 
 
-        // 3. loop through each item of the array and adding the value of the item to the total price
+        for ( let index = 0; index < arr.length; index++ ) {
+    
+            if ( arr[index].type === 'food' ) {
 
-        for ( let index = 0; index <arr.length; index++ ) {
+               let discount= ( arr[index].price * 20 ) / 100;  //BODMAS
 
-            totalPrice = totalPrice + ( arr[index].price * arr[index].qantity )
+               totalPrice = totalPrice + ( arr[index].price - discount ) * arr[index].quantity;
 
-            //totalPrice = 0 + ( 0.85 * 1 )
+            } else { 
+
+                totalPrice = totalPrice + ( arr[index].price * arr[index].qantity )
+
+            }
+
+        
 
         }
 
-        // 4. Return the totalprice variable
         
         return totalPrice.toFixed(2); 
 
     }
 
-    let message = 'The cost of all your items comes to: £';
+    let message = 'The discount of all your food items comes to: £';
 
-    console.log( message + shoppingCartTotalPrice ( shoppingCart ) );
+    console.log( message + discountFood( shoppingCart ) );
