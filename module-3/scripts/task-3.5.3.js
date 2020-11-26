@@ -85,5 +85,3 @@ let shoppingCart = [
 
    
     console.log(   );
-
-    
