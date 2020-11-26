@@ -60,7 +60,7 @@ let shoppingCart = [
     price:.4
     }​​​​];
 
-    function discountFood( arr )
+    function discountFood( arr, discountAmount, type ) {
 
         let totalPrice = 0; 
 
@@ -68,13 +68,9 @@ let shoppingCart = [
     
             if ( arr[index].type === 'food' ) {
 
-               let discount= ( arr[index].price * 20 ) / 100;  //BODMAS
+               let discount= ( arr[index].price * 20 ) / 100; 
 
-               totalPrice = totalPrice + ( arr[index].price - discount ) * arr[index].quantity;
-
-            } else { 
-
-                totalPrice = totalPrice + ( arr[index].price * arr[index].qantity )
+              discountAmount = discount.food
 
             }
 
@@ -85,10 +81,9 @@ let shoppingCart = [
         
         return totalPrice.toFixed(2); 
 
-    
+    let shopping = discount( shoppingCart, 20, 'food' );
 
-    let message = 'The discount of all your food items comes to: £';
-
-    console.log( message + discountFood( shoppingCart ) );
+   
+    console.log(   );
 
     
