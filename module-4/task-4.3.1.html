@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 4.3.1</title>
+</head>
+<body>
+    
+    <!--
+
+        PRINT numbers 1 to 100
+
+            If multiple of three PRINT Fizz
+            If multiple of five PRINT Buzz
+            If multiple of three and five PRINT FizzBuzz
+            If none of the above, print number
+
+        MOD = Modulus
+        
+            FOR LOOP: 
+            set a counter to 1
+            break when counter reaches 100
+            Increment the counter by 1
+
+        IF number MOD 15 === 0
+            print 'FizzBuzz'
+        ELSE IF number MOD 3 === 0
+            print 'Fizz'
+        ELSE IF number MOD 5 === 0
+            print 'Buzz'
+        ELSE
+            print number
+
+
+    -->
+
+    <script>
+
+        for( let counter = 1; counter <= 100; counter++ ) {
+
+            if(counter % 15 === 0 ) {
+                console.log ('FizzBuzz');
+            } else if (counter % 3 === 0 ) {
+                console.log('Fizz');
+            } else if (counter % 5 === 0 ) {
+                console.log('Buzz');
+            } else {
+                console.log( counter );
+            }
+
+        }
+    </script>
+
+</body>
+</html>
