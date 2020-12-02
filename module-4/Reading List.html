@@ -9,12 +9,46 @@
 
   <!--
 
-    list title and author in an array of objects var BookTitle_Author[]
-    Boolean if read then true, if not read then false
-    console log if read "You already read "BookTitle" by "AuthorName
+    Keep track of books I have read and I have not
+
+    list title and author in an ARRAY of OBJECTS var BookTitle_Author[]
+    BOOLEAN if read then true, if not read then false
+    console log if read "You already read "BookTitle" by "AuthorName"
     console log if NOT read "You still need to read BookTitle by AuthorName"
 
+    1. create list of books
+    2. cycle through list of books
+    3. show whether or not I have read the book
+
   -->  
+
+  <script>
+
+      let books = [
+          {
+              title: 'Lord of the Rings'
+              author: 'J.R.R. Tolkien'
+              hasRead: false
+          },
+          {
+              title: 'Harry Potter'
+              author: 'J.K. Rowling'
+              hasRead: true
+
+      ];
+
+      for( let index = 0; index < books.length; index++) {
+
+         //console.log(books[index].hasRead);
+
+          if(books[index].hasRead) {
+
+              console.log(books[indec].title);
+          }
+
+      }
+  </script>
+
     
 </body>
 </html>
